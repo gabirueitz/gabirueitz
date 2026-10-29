@@ -1,22 +1,54 @@
-# 💫 About Me:
-### Hi, Hello! My name is Roger! :wave:
-I'm Brazilian, fluent in English. <br>I'm a PhD in Chemistry and I am currently developing my skills in the world of programming.
-I started this journey as a FrontEnd developer. However,  I'm still in my infancy with my BackEnd studies.
+# Hi there, I'm Roger Gonçalves!
 
-Don't forget to check out my [**portfolio**](https://gabirueitz.github.io/portfolio/) and feel free to **get in touch**! :wink:
+PhD in Chemistry & Data/Automation Developer based in Brazil.  
+I bridge scientific rigor, mathematical modeling, and software engineering to build robust data applications, automation workflows, and interactive tools.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roger-gabiru-goncalves)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabirueitz.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@dominio.com)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/697486281596207126) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gabirueitz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabirueitz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roger-gabiru-goncalves) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gabirueitz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gabirueitz) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/roger-gabiru) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabirueitz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabirueitz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabirueitz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tech Stack & Tooling
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Core Languages & Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Data Science & Scientific Computing:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Web, Automation & Frameworks:**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[QuickEIS](https://github.com/gabirueitz)** | Interactive web app for electrochemical impedance parameter extraction and Nyquist arc fitting. | `Streamlit`, `SciPy`, `Python` |
+| **[ComprasFAI](https://github.com/gabirueitz/comprasFAI)** | Desktop automation tool to parse Excel/CSV orders and populate complex institutional procurement forms. | `Playwright`, `Tkinter`, `Pandas` |
+| **[g-lab_viewer](https://github.com/gabirueitz)** | Interactive web-based 3D STL mesh viewer for digital manufacturing previews. | `Three.js`, `JavaScript`, `HTML5` |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabirueitz&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabirueitz&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabirueitz&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
