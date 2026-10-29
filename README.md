@@ -42,13 +42,6 @@ I bridge scientific rigor, mathematical modeling, and software engineering to bu
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabirueitz&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabirueitz&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabirueitz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gabirueitz&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
